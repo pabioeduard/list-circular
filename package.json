@@ -1,0 +1,16 @@
+{
+  "name": "lista-circular",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "typescript": "^5.7.2"
+  }
+}
